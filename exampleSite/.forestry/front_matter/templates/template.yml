@@ -1,0 +1,27 @@
+---
+label: Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: number
+  name: weight
+  label: weight
+- type: list
+  name: keywords
+  label: keywords
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+pages:
+- exampleSite/content/temada/temavii/titulo-vii.md
+- exampleSite/content/temaea/temaeai/tema-d.a.i.md
