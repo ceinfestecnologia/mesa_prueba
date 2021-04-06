@@ -22,6 +22,3 @@ fields:
   config:
     required: false
   label: type
-pages:
-- exampleSite/content/temada/temavii/titulo-vii.md
-- exampleSite/content/temaea/temaeai/tema-d.a.i.md

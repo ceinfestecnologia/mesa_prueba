@@ -17,5 +17,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- exampleSite/content/temaea/_index.en.md
