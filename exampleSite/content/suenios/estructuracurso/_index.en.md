@@ -7,21 +7,13 @@ keywords:
 - ''
 
 ---
-
 ### ¿Qué incluye el curso?
 
-* 56 horas de clase 🕗 
-
-* 4 horas de conferencia de estrategias metodológicas🧑🏻‍🏫 
-
-* 16 horas de simulacro tipo icfes📃📃📃 
-
-* 1 libros para trabajo en clase📚 
-
-* Plataforma de entrenamiento 👩🏻‍💻. 
-
-* Fecha de inicio: 17 de abril 
-
-* Fecha de finalización: 14 de agosto 2021 
-
-* Horario: sábados 1:00 a 3:00pm y de 3:30 a 5:30 p.m. 
+* 56 horas de clase continuas 🕗
+* 4 horas de conferencia de estrategias metodológicas🧑🏻‍🏫
+* 16 horas de simulacro tipo icfes📃📃📃
+* 1 libros para trabajo en clase📚
+* Plataforma de entrenamiento 👩🏻‍💻.
+* Fecha de inicio: 17 de abril
+* Fecha de finalización: 14 de agosto 2021
+* Horario: sábados 1:00 a 3:00pm y de 3:30 a 5:30 p.m.
