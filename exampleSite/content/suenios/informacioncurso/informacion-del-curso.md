@@ -1,6 +1,5 @@
 +++
 date = 2021-04-07T05:00:00Z
-draft = true
 keywords = []
 lastmod = 2021-04-08T05:00:00Z
 title = "Información del curso"
