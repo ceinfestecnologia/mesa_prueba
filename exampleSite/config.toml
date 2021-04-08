@@ -12,6 +12,11 @@ languageName = "En"
 parent = ""
 weight = 1
 [[Languages.en.menu.main]]
+name = "Manual de pruebas"
+parent = "Cursos"
+url = "manualdepruebas"
+weight = "2"
+[[Languages.en.menu.main]]
 name = "Inicio"
 parent = ""
 url = "/"
