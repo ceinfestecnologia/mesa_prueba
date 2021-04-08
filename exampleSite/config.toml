@@ -6,11 +6,16 @@ themesDir = "../.."
 title = "Mesa de servicio"
 [Languages.en]
 copyright = "Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+hasChildren = ""
 languageCode = "en-us"
 languageName = "En"
 parent = ""
-hasChildren = ""
 weight = 1
+[[Languages.en.menu.main]]
+name = "Sub Folder"
+parent = "Cursos"
+url = "subfolder"
+weight = "2"
 [[Languages.en.menu.main]]
 name = "Inicio"
 parent = ""
