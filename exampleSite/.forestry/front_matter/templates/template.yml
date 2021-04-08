@@ -22,3 +22,5 @@ fields:
   config:
     required: false
   label: type
+pages:
+- exampleSite/content/subfolder/Subcontent 1/info-subfolder.md
