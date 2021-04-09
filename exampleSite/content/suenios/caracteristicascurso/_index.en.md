@@ -63,6 +63,10 @@ keywords:
 
 > El alto resultado en las pruebas de estado lo garantizas tú en la medida en que asumes de forma responsable el proceso, participas activamente en las clases, manifiestas tus inquietudes y asistes a todas las sesiones, nosotros te garantizamos nuestra experiencia, plataformas con contenidos que aportan a tu entrenamiento y profesores altamente calificados, tu trabajo y nuestro acompañamiento garantizarán el éxito.
 
-#### ¿Como ingresar a la plataforma?
+#### ¿ Como ingresar a la plataforma?
 
-> Debe realizar su ingreso a través de la página principal de miltonochoa.com, luego acceder con el usuario y contraseña asignado. 
+> Debe realizar su ingreso a través de la página principal de miltonochoa.com, luego acceder con el usuario y contraseña asignado.
+
+#### ¿ Qué días se dictan las clases del curso?
+
+> Las clases se dictan los días lunes a domingo horario 7:00 am a 3:00 pm.
