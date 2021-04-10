@@ -11,7 +11,7 @@ weight = 4
 
 {{< notice info >}}
 
-Tema uno lenguaje y matemáticas 
+Tema uno lenguaje y matemáticas
 
 {{< /notice >}}
 
