@@ -38,3 +38,7 @@ Tema uno lenguaje y matemáticas
 {{< /tab >}}
 
 {{</ tabs >}}
+
+![](/uploads/whatsapp-image-2021-02-08-at-12-47-42-pm.jpeg "Entrenamiento")
+
+{{< youtube [YZi5vam33ow](https://www.youtube.com/watch?v=YZi5vam33ow "https://www.youtube.com/watch?v=yzi5vam33ow") >}}
