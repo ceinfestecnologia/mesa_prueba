@@ -7,7 +7,7 @@ type = "docs"
 weight = 4
 
 +++
-#### Temas a desarrollar
+#### Temas a desarrollar para curso
 
 {{< notice info >}}
 
