@@ -24,5 +24,6 @@ fields:
   label: type
 pages:
 - exampleSite/content/Estudiantes/plantel/Plantel/plantel.md
+- exampleSite/content/Estudiantes/plantel/estudiantes.md
 - exampleSite/content/manualdepruebas/Instructivos/instructivo-inicial.md
 - exampleSite/content/suenios/Información cursos/informacion-importante.md
