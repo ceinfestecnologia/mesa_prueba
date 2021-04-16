@@ -6,7 +6,7 @@ title = "Preguntas Frecuentes"
 type = "docs"
 
 +++
-### 
+### ![](/uploads/plantel-ingreso.gif "Ingreso")
 
 ##### ¿Cómo ingreso a la plataforma?
 
@@ -32,4 +32,4 @@ type = "docs"
 
 ##### - Rta/ cargar video
 
-### 
+### ![](/uploads/plantel-ingreso.gif)
