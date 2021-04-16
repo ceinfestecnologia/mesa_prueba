@@ -23,6 +23,7 @@ fields:
     required: false
   label: type
 pages:
+- exampleSite/content/Estudiantes/plantel/plantel.md
 - exampleSite/content/Estudiantes/plantel/preguntas-frecuentes.md
 - exampleSite/content/manualdepruebas/Instructivos/instructivo-inicial.md
 - exampleSite/content/suenios/Información cursos/informacion-importante.md
