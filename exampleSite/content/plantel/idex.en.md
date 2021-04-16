@@ -6,3 +6,4 @@ title = "Preguntas Frecuentes"
 type = "docs"
 
 +++
+### Preguntas Frecuentes
