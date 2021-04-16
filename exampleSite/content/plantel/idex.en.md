@@ -6,7 +6,7 @@ title = "Preguntas Frecuentes"
 type = "docs"
 
 +++
-### Preguntas Frecuentes
+### 
 
 ##### ¿Cómo ingreso a la plataforma?
 
