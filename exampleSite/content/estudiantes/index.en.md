@@ -22,14 +22,6 @@ type = "docs"
 
 ##### Rta. Cargar video
 
-##### 
-
-##### 
-
-##### 
-
-##### 
-
 ##### ¿Cómo analizo los resultados obtenidos?
 
 ##### Cargar video de farly
