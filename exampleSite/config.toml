@@ -19,7 +19,7 @@ weight = "2"
 [[Languages.en.menu.main]]
 name = "Estudiantes"
 parent = "Servicios"
-url = "Estudiantes"
+url = "estudiantes"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "Servicios"
