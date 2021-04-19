@@ -29,3 +29,5 @@ type = "docs"
 ##### ¿un estudiante como restablece su contraseña de acceso a la plataforma?
 
 ##### - Rta/ cargar video
+
+![](https://asesoriasacademicasmo-my.sharepoint.com/personal/carolina_montealegre_beplusgroupla_com/Documents/Archivos%20de%20chat%20de%20Microsoft%20Teams/Plantel-Ingreso%20(1).gif)
